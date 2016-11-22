@@ -1,0 +1,25 @@
+transaksi
+status
+- 1 = belum lunas
+- id transaction lain = (jika sudah di bayar)
+- 0 = sudah lunas
+
+Activities
+status
+- 0 = belum digenerate gaji
+- 1 = sudah di generate
+
+
+Transaction Details
+ket_giro
+- Baru = buat giro baru
+- Lama = pilih giro
+
+Giro
+- 1 = Avaliable
+- 0 = Sudah dipakai
+
+Tank - Stock
+2 = Tangki susut
+1 = Tangki Gudang
+0 = Tangki Biasa
